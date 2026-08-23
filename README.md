@@ -1418,10 +1418,23 @@ The system can later be extended with:
 
 # 📜 License
 
-This project is intended for educational, research, and portfolio purposes.
+This project is licensed under the [MIT License](LICENSE).
 
-The Twitter Airline Sentiment dataset is provided by its original dataset creator on Kaggle. Users should follow the dataset's applicable license and usage terms.
+Copyright (c) 2026 Ayush Chaturvedi
 
+The MIT License applies to the source code developed for this project.
+
+## Dataset License
+
+This project uses the **Twitter Airline Sentiment Dataset** available through Kaggle:
+
+`crowdflower/twitter-airline-sentiment`
+
+The dataset is not covered by this project's MIT License. The dataset remains
+subject to its original license and terms of use.
+
+Users are responsible for reviewing and complying with the applicable Kaggle
+dataset terms before using or redistributing the dataset.
 ---
 
 # 👨‍💻 Author
